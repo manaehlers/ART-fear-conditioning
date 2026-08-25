@@ -1,4 +1,4 @@
-# Anxiety-Related Traits (ARTs) and Associative Threat Learning / Fear Conditioning
+# Anxiety-Related Traits (ARTs) and Fear Conditioning
 
 This repository contains the R analysis and visualization code accompanying the study:
 
