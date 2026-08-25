@@ -14,6 +14,7 @@ The scripts are intended to be used in the following order:
 * **`02_ARTs_plots.R`** – Visualization of anxiety-related trait distributions and associations with threat-learning outcome measures.
 * **`03_conditioning_effects_analyses.R`** – Analyses of overall conditioning effects across experimental phases and outcome measures.
 * **`04_conditioning_effects_plots.R`** – Visualization of conditioning effects across experimental phases and outcome measures.
+* **`05_factor_analysis.R`** – Exploratory factor analysis of different anxiety-related traits questionnaires.
 
 ## Requirements
 
