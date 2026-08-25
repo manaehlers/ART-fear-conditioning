@@ -2,7 +2,7 @@
 
 This repository contains the R analysis and visualization code accompanying the study:
 
-**“Anxiety-Related Traits Are Associated with Subjective but Not Physiological or Neural Indices of Associative Threat Learning”**
+**“Anxiety-Related Traits Are Associated with Subjective Biases but Not Altered Threat–Safety Discrimination”**
 
 The study investigates associations between anxiety-related traits (ARTs) and associative threat learning across acquisition, extinction, and renewal.
 
