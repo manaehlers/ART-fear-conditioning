@@ -20,10 +20,6 @@ The scripts are intended to be used in the following order:
 
 Analyses were conducted in **R**. Required R packages are specified at the beginning of each script.
 
-## Data availability
-
-[Add information on data availability and/or a link to the data repository.]
-
 ## Citation
 
 If you use this code, please cite:
